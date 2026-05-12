@@ -138,12 +138,14 @@ export const ContactCard = () => {
               </div>
             </div>
 
+            {/*
+
             <div className="bg-black/40 rounded-lg p-3 flex justify-between items-center border border-white/5 hover:border-[#00F5FF]/50 hover:bg-black/60 transition-all">
               <span className="text-[#FF9900] font-bold text-xs tracking-wider">PHONE:</span>
               <a href="tel:+1234567890" className="text-white/80 hover:text-white truncate max-w-[180px]">
                 000000
               </a>
-            </div>
+            </div> */}
 
             <div className="bg-black/40 rounded-lg p-3 flex justify-between items-center border border-white/5 hover:border-[#00F5FF]/50 hover:bg-black/60 transition-all">
               <span className="text-[#ADFF00] font-bold text-xs tracking-wider">GITHUB:</span>
